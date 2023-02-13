@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --version olleh hello
+chmod -v olleh hello
