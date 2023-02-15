@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'Cc' 
+echo 'Chicago' | sed 's/C//;s/c//' 
